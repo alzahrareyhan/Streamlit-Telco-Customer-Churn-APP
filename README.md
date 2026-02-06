@@ -1,6 +1,7 @@
 # 📊 Telco Customer Churn Prediction App
 
 ## 🔗 Link Streamlit
+https://telco-customer-churn-app-reyhan.streamlit.app/
 
 ## 📌 Project Description
 This project is a **Customer Churn Prediction Web Application** built using Machine Learning and deployed with Streamlit. The application predicts whether a customer is likely to churn based on service usage, contract type, and payment behavior.
