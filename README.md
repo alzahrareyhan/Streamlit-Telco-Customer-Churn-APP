@@ -1,4 +1,3 @@
-
 # 📊 Telco Customer Churn Prediction App
 
 ## 🔗 Link Streamlit
@@ -45,7 +44,6 @@ Dataset contains:
 - Pandas
 - Scikit-learn
 - Joblib / Pickle
-
 
 
 
